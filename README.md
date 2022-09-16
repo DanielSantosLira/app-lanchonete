@@ -1,2 +1,2 @@
-# app-lanchonete
- 
+# Porojeto lanchonete
+ Repositório com layout para um webapp
