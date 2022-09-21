@@ -1,8 +1,18 @@
 body{
-    background-color: #606060;
-    color: white;
-    font-family: Arial;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
 }
-.cadastro{
-    margin: 350px;
+
+header{
+    background-color: lightgray;
+}
+footer{
+    background-color: lightblue;
+
+}
+div{
+    background-color: lightgreen;
 }
