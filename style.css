@@ -1,5 +1,8 @@
 body{
-    background-color: cornflowerblue;
+    background-color: #606060;
     color: white;
     font-family: Arial;
+}
+.cadastro{
+    margin: 350px;
 }
