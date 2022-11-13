@@ -40,7 +40,7 @@ input, textarea{
 textarea{
     height: 94px;
 }
-button{
+div button{
     font-size: 18px;
     font-weight: bold;
     padding-top: 15px;
